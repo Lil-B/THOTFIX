@@ -1,8 +1,8 @@
-Note: under the [Hotfix game](http://sdrdis.github.com/hotfix/), you can find a styled version of the text below.
+Note: under the [THOTFIX game](http://sdrdis.github.com/hotfix/), you can find a styled version of the text below.
 
 ## Description
 
-Help Hotfix collect stargazers and avoid enemies. Collect commits to upgrade hotfix and add new features.
+Help THOTFIX collect stargazers and avoid enemies. Collect commits to upgrade THOTFIX and add new features.
 
 ## Controls
 
@@ -10,7 +10,7 @@ Click or press space to jump. The longer you hold, the longer the jump (there is
 
 Jumping watchers can be destroyed by jumping on them. If you do so, you will be able to double jump.
 
-By collecting commits, add new features to hotfix. The more features you have, the more likely you will progress in the game.
+By collecting commits, add new features to THOTFIX. The more features you have, the more likely you will progress in the game.
 
 ## Screenshots
 
@@ -32,7 +32,7 @@ You are ranked by the number of stargazers you collected.
 
 ![alt text](http://sdrdis.github.com/hotfix/images/screenshot-3.jpg "The store")
 
-Buy new features for Hotfix.
+Buy new features for THOTFIX.
 
 ## Enemies and obstables
 
@@ -68,7 +68,7 @@ They are an evolved form of watchers: they throw forks. The forks are poisonned,
 
 ![alt text](http://sdrdis.github.com/hotfix/images/clones.png "Clones")
 
-Buy extra clones of Hotfix to continue playing when you are hit or are falling.
+Buy extra clones of THOTFIX to continue playing when you are hit or are falling.
 
 ### Time machine
 
@@ -90,7 +90,7 @@ The magnet pull commits towards you, allowing you to earn more of them.
 
 ## Credits
 
-### Developper / designer / author of Hotfix
+### Developper / designer / author of THOTFIX
 
 [Lil-B](https://twitter.com/LILBTHEBASEDGOD)
 
